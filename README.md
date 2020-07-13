@@ -13,10 +13,10 @@ This exposes port 80 on 0.0.0.0
 *Head to 0.0.0.0:80*
 
 ## The webpage should show:
-![alt text][logo]
-[logo]:https://github.com/chadgavin/fibonacci-Restful-webservice/image.png
+![alt text](https://github.com/chadgavin/fibonacci-Restful-webservice/image.png)
 
-## Follow the instructions and insert */fibonacci/number* to  *0.0.0.0:80*
+## Follow the instructions ont the site and
+insert */fibonacci/number* to the end of  *0.0.0.0:80* 
 
 ## To stop docker container 
 ```docker stop``` container_id
