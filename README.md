@@ -13,7 +13,7 @@ This exposes port 80 on 0.0.0.0
 *Head to 0.0.0.0:80*
 
 ## The webpage should show:
-![image](chadgavin/fibonacci-Restful-webservice/image.png)
+![image](image.png)
 
 ## Follow the instructions ont the site and
 insert */fibonacci/number* to the end of  *0.0.0.0:80* 
